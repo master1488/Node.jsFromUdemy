@@ -6,7 +6,7 @@ const person = {
   }
 };
 
-const copiedPerson = { ...person };
+const copiedPerson = { ...person};
 console.log(copiedPerson);
 
 const hobbies = ['Sports', 'Cooking'];
@@ -19,7 +19,7 @@ const copiedArray = [...hobbies];
 console.log(copiedArray);
 
 const toArray = (...args) => {
-  return args;
+ return args;
 };
 
 console.log(toArray(1, 2, 3, 4));
