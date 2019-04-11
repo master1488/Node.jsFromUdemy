@@ -19,8 +19,8 @@ console.log(name, age);
 // console.log(copiedPerson);
 
 const hobbies = ['Sports', 'Cooking'];
-const [hobby1, hobby2] = hobbies;
-console.log(hobby1, hobby2);
+const [place1, place2] = hobbies;
+console.log(place1, place2);
 
 // // for (let hobby of hobbies) {
 // //     console.log(hobby);
