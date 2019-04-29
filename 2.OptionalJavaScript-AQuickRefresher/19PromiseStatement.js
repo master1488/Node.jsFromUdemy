@@ -1,12 +1,6 @@
 const promise = new Promise((resolve,reject) => {
 
-
-
-}
-
-
-)
-
+});
 
 const fetchData = () => {
     const promise = new Promise((resolve, reject) => {
