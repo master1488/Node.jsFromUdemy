@@ -1,0 +1,16 @@
+{
+  "name": "newnpmninit",
+  "version": "1.0.0",
+  "description": "this is the first npm init",
+  "main": "41_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon 41_app.js",
+    "star-server": "node 41_app.js"
+  },
+  "author": "Simon G. H.",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
