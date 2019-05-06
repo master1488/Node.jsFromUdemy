@@ -1,3 +1,6 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "terminal.integrated.shell.osx": "bin/bash",
+    "terminal.integrated.shell.linux": "bin/bash",
+    "terminal.integrated.splitCwd": "workspaceRoot"
 }
